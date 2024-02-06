@@ -1,0 +1,940 @@
+@media (max-width:1024px) {
+    .home-hero-main-box-right-image {
+        width: 45%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 0px !important;
+        display: none;
+    }
+    .home-hero-main-box-left-blank {
+        width: 100%;
+        background: #012169;
+        padding: 5vh 0;
+        padding-left: 5vw;
+        padding-right: 70px;
+        padding-top: 50px;
+    }
+    .get-pricing-quote {
+        width: 70%;
+        padding: 40px 30px;
+        background: #012169e6;
+        border-radius: 20px;
+        margin-top: 0px;
+        margin: 50px auto;
+    }
+    .reviews-and-calculatoer-main-box {
+        display: flex;
+        flex-direction: column;
+    }
+    .background {
+        height: 100%;
+        width: 100%;
+        position: relative !important;
+        padding-right: 30px !important;
+    }
+    .slider-owl-carousel-owl-loaded-owl-drag {
+        width: 100%;
+        max-width: 515px;
+        z-index: revert-layer !important;
+        padding: 25px 25px;
+        background-color: #fbfcff;
+        border-radius: 10px;
+        margin-top: -240px;
+        box-shadow: 4px 4px 10px rgba(0,0,0,.16);
+        margin-left: 468px;
+    }
+    .experience-how-we-can-help-you-ace-your-assignments-main-box {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .experience-how-we-can-help-you-ace-your-assignments-main-box-left-box {
+        width: 60%;
+        padding-right: 10px;
+    }
+    .experience-how-we-can-help-you-ace-your-assignments-main-box-right-box {
+        width: 60%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .experience-how-we-can-help-you-ace-your-assignments-main-box-left-box-heading-2-style {
+        color: white;
+        font-weight: bolder;
+        text-align: center;
+    }
+    .why-us-main-box {
+        width: 100%;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: column;
+    }
+    .why-us-main-box-left {
+        width: 100%;
+    }
+    .why-us-main-box-left img {
+        max-width: 100%;
+        height: auto;
+        margin: 0px;
+        margin-left: -79px;
+        width: 100% !important;
+    }
+    .why-us-main-box-right {
+        width: 100%;
+        padding: 0px 20px;
+    }
+    .order-depend-on-following-essentials-main-box-heading-2-style {
+        text-align: center;
+        font-size: 30px !important;
+        font-family: 'Anton';
+        font-weight: 200;
+        color: #012169;
+    }
+    .order-depend-on-following-essentials-main-box-sub-box {
+        width: 100%;
+        margin: auto;
+        margin-top: 40px;
+        display: flex;
+        padding: 0px 40px;
+    }
+    .menu-btn {
+        color: rgb(255 255 255);
+        font-size: 35px;
+        margin: 0px !important;
+        cursor: pointer;
+        display: block;
+        margin-left: 13px !important;
+        margin-top: -4px !important;
+        position: fixed;
+        top: 0px;
+        z-index: 3000;
+    }
+    .order-depend-on-following-essentials-main-box-sub-box {
+        width: 100%;
+        margin: auto;
+        margin-top: 40px;
+        display: flex;
+        padding: 0px 40px;
+        flex-direction: column;
+        gap: 20px 0px;
+    }
+    .order-depend-on-following-essentials-main-box-sub-box-left {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+    .order-depend-on-following-essentials-main-box-sub-box-right {
+        width: 100%;
+        padding: 12px;
+        background: rgba(215,215,215,.32);
+        border-radius: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .Cheapest-Pricing-Conditions-main-box {
+        width: 100%;
+        overflow: scroll;
+    }
+    .order-depend-on-following-essentials-main-box-sub-box-left-describtion {
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+    font-weight: 900;
+    color: #012169;
+    margin-bottom: 14px;
+}
+.calculate-the-price-calculator-box select {
+    width: 320px;
+    padding: 20px;
+    font-size: 16px;
+    border-radius: 10px;
+    color: #333;
+}
+.Place-order-page-main-box {
+    width: 100%;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+}
+.Place-order-page-main-box-left-box {
+    width: 100%;
+}
+.Place-order-page-main-box-right-box {
+    width: 100%;
+    padding: 10px;
+}
+.email-contact-number {
+    width: 100%;
+    background-color: #b9b9b9;
+    padding: 5px 20px;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    top: 0px;
+    z-index: 2000;
+}
+.side-bar.active {
+    left: 0;
+    z-index: 3000;
+}
+.service-page-hero-main-box-left {
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.never-before-main-box {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.never-before-main-box-left {
+    width: 100%;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.service-page-edit-calculate-box {
+    margin-top: 0px;
+}
+.service-page-edit-calculate-box {
+    margin-top: 0px;
+    width: 100%;
+}
+.display-none {
+    display: none;
+}
+.never-before-main-box-right-help-you-ace-your-assignments {
+    width: 100%;
+    background: #012169;
+    padding: 40px 10px;
+    margin-top: 40px;
+    border-radius: 10px;
+    display: none;
+}
+.service-page-hero-main-box-right {
+    width: 30%;
+    display: none;
+}
+.service-page-hero-main-box-left {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.service-page-edit-calculate-box {
+    margin-top: 20px;
+    width: 100%;
+}
+.service-page-hero-main-box-left {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#home-hero {
+    padding: 0px 0px;
+    padding-top: 0px;
+}
+section#about-page {
+    padding-bottom: 0px;
+    padding-top: 50px;
+}
+section#best-prices-at-assignment-help-london {
+    padding-bottom: 0px;
+    padding-top: 50px;
+}
+section#term-and-codition {
+    padding-bottom: 30px;
+    padding-top: 50px;
+}
+.trust-us-for-cheap-main-box {
+    width: 100%;
+    margin-top: 50px;
+    background-image: none;
+    background-position: center center;
+    background: #F5F5F5;
+    background-size: cover;
+    display: flex;
+    padding: 23px 0px !important;
+    flex-direction: column;
+}
+.trust-us-for-cheap-main-box-left {
+    width: 100%;
+    padding: 0px 50px;
+}
+.trust-us-for-cheap-main-box-right {
+    width: 100%; 
+    padding: 0px 61px;
+}
+.margin-top-book-image {
+    margin-top: 20px;
+}
+.trust-us-for-cheap-main-box-left-heading-3-style {
+    font-size: 35px;
+    margin-top: -2px;
+    margin-top: 20px;
+}
+.trust-us-for-cheap-main-box-left-description {
+    margin-top: 10px;
+    font-size: 17px;
+}
+}
+@media (max-width:768px) {
+    .slider-owl-carousel-owl-loaded-owl-drag {
+        width: 100%;
+        max-width: 515px;
+        z-index: revert-layer !important;
+        padding: 25px 25px;
+        background-color: #fbfcff;
+        border-radius: 10px;
+        margin-top: -193px;
+        box-shadow: 4px 4px 10px rgba(0,0,0,.16);
+        margin-left: 209px;
+    }
+    .heading-1 {
+        width: 100%;
+        margin: auto;
+    }
+    .experience-how-we-can-help-you-ace-your-assignments-main-box-left-box {
+        width: 100% !important;
+        padding-right: 10px;
+    }
+    .experience-how-we-can-help-you-ace-your-assignments-main-box {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+    }
+    .experience-how-we-can-help-you-ace-your-assignments-main-box-right-box-btn-box {
+        width: 100%;
+        /* border: 2px solid black; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .proofreading-editing-services {
+        width: 360px;
+        border: 1px solid #333;
+        border-radius: 10px;
+        padding: 0px 25px;
+        padding-bottom: 15px;
+    }
+    .experience-how-we-can-help-you-ace-your-assignments-main-box-right-box a button {
+        width: 200px;
+        padding: 20px 22px;
+        font-size: 20px;
+        font-weight: bolder;
+        background: #c8102e;
+        border: none;
+        margin: 20px;
+        border-radius: 10px;
+        color: white;
+        display: flex;
+        align-items: center;
+    }
+    .why-us-main-box-right {
+        width: 100%;
+        padding: 0px 50px;
+    }
+    .listen-to-our-satisfied-students-main-box-email-box {
+        width: 100%;
+        margin: auto;
+        display: flex;
+        margin-top: 50px;
+        flex-direction: column;
+        padding: 0px 20px !important;
+        gap: 20px 0;
+    }
+    .listen-to-our-satisfied-students-main-box-email-box input {
+        border: 0;
+        width: 99%;
+        margin: auto;
+        border-radius: 10px;
+        background-color: #fff;
+        color: #333;
+        font-size: 18px;
+        transition: all .3s;
+        padding: 0 20px;
+        height: 65px;
+        outline: #012169;
+    }
+    .listen-to-our-satisfied-students-main-box-email-box-subscribe-btn {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        max-width: 99%;
+        min-width: 99%;
+        margin: auto;
+        height: 63px;
+        border: 0;
+        /* margin: 10px; */
+        outline: 0;
+        font-size: 20px;
+        border-radius: 10px;
+        cursor: pointer;
+        background: #c8102e;
+        color: white;
+        transition: all .3s ease-in-out;
+    }
+    .WRITE-MY-ASSIGNMENT-BUT-wHATS-THE-PROCESS-main-box {
+        width: 100%;
+        margin-top: 40px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-direction: column;
+    }
+    .WRITE-MY-ASSIGNMENT-BUT-wHATS-THE-PROCESS-main-box-item {
+        width: 400px;
+        background: #f9f9ff;
+        border-top-left-radius: 50px;
+        border-bottom-right-radius: 50px;
+        padding: 40px;
+        padding-right: 10px !important;
+        padding-left: 18px;
+        margin: 15px;
+        display: flex;
+        align-items: center;
+        gap: 0 22px;
+    }
+    .calculate-the-price-calculator-box {
+        width: 100%;
+        margin-top: 50px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-direction: column;
+        gap: 20px 0px;
+        padding: 0px 10px;
+    }
+    .calculate-the-price-calculator-box select {
+        width: 100%;
+        padding: 20px;
+        font-size: 16px;
+        border-radius: 10px;
+        color: #333;
+    }
+    #txtDeadline {
+        width: 100%;
+    }
+    #txtAcademicLevel {
+        width: 100%;
+    }
+    select#txtNumberofPages {
+        width: 100%;
+    }
+    .wrapper {
+        width: 100% !important;
+    }
+    .footer-main-box {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            GAP: 40PX 140PX;
+            flex-wrap: wrap ;
+        }
+        .email-contact-number {
+            width: 100%;
+            background-color: #b9b9b9;
+            padding: 5px 68px;
+            display: flex;
+            justify-content: space-between;
+            position: fixed;
+            top: 0px;
+            z-index: 2000;
+        }
+        .social-media-icon-box {
+            width: 50%;
+            display: flex;
+            justify-content: end;
+            padding-right: 0px;
+        }
+}
+@media (max-width:425px) {
+    .background {
+        height: 100%;
+        width: 100%;
+        position: relative !important;
+        padding-right: 30px !important;
+        display: none;
+    }
+    .slider-owl-carousel-owl-loaded-owl-drag {
+        width: 100%;
+        max-width:100%;
+        z-index: revert-layer !important;
+        padding: 25px 25px;
+        background-color: #fbfcff;
+        border-radius: 10px;
+        margin-top: 0px;
+        box-shadow: 4px 4px 10px rgba(0,0,0,.16);
+        margin-left: 0px;
+    }
+    .hero-counter {
+        width: 100%;
+        margin-top: 40px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 20px 0px;
+        margin: auto;
+    }
+    .home-hero-main-box-left-blank {
+        width: 100%;
+        background: #012169;
+        padding: 5vh 0;
+        padding-left: 5vw;
+        padding-right: 5vw;
+    }
+    .container {
+        width: 100%;
+        padding: 50px 0px;
+        overflow: hidden;
+    }
+    .email-contact-number {
+        width: 100%;
+        background-color: #b9b9b9;
+        padding: 5px 20px;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .emain-contact-box {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+    }
+    .social-media-icon-box {
+        width: 50%;
+        display: flex;
+        justify-content: end;
+        padding-right: 0px;
+    }
+    .email-contact-number {
+        width: 100%;
+        background-color: #b9b9b9;
+        padding: 5px 20px;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        gap: 10px;
+    }
+    .emain-contact-box {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+        gap: 10px;
+    }
+    .menu-btn {
+        position: absolute;
+        color: rgb(0, 0, 0);
+        font-size: 35px;
+        margin: 25px;
+        margin-top: 0px;
+        cursor: pointer;
+        display: block;
+    }
+    .email-contact-number {
+        width: 100%;
+        background-color: #b9b9b9;
+        padding: 20px 20px;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        gap: 10px;
+        position: fixed;
+        top: 0px;
+        z-index: 1000;
+    }
+    .emain-contact-box {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+        gap: 10px;
+        display: none;
+       
+    }
+    .social-media-icon-box {
+        width: 50%;
+        display: flex;
+        justify-content: end;
+        padding-right: 0px;
+        display: none;
+    }
+    .menu-btn {
+        position: absolute;
+        color: rgb(255 255 255);
+        font-size: 35px;
+        margin: 25px;
+        margin-top: -2px !important;
+        cursor: pointer;
+        position: fixed;
+        top: 0px;
+        display: block;
+        z-index: 2000;
+    }
+    section#best-prices-at-assignment-help-london {
+        padding-bottom: 0px;
+        padding-top: 43px !important;
+    }
+    .get-pricing-quote {
+        width: 100%;
+        padding: 40px 30px;
+        background: #012169e6;
+        border-radius: 20px;
+        margin-top: 0px;
+        margin: 50px auto;
+    }
+    .home-hero-main-box-left-blank-h1-heading-style {
+        font-size: 38px;
+        color: white;
+        font-weight: bold;
+        font-family: 'Anton';
+        text-align: left !important;
+        letter-spacing: 4px;
+        text-align: center !important;
+    }
+    .home-hero-main-box-left-blank-h3-heading-style {
+        font-size: 20px;
+        color: white;
+        font-family: 'Anton';
+        letter-spacing: 1px;
+        font-weight: 500;
+        margin-top: -16px;
+        text-align: center;
+    }
+    .home-hero-main-box-left-blank p {
+        color: white;
+        margin-top: 10px;
+        text-align: center;
+    }
+    section#reviews-and-calculatoer {
+        padding-bottom: 0px !important;
+    }
+    .get-pricing-quote {
+        width: 100%;
+        padding: 40px 30px;
+        background: #012169e6;
+        border-radius: 20px;
+        margin-top: 0px;
+        margin: 50px auto;
+        margin-bottom: 0px !important;
+    }
+    .hero-list {
+        width: 100%;
+        border-bottom: 1px solid white;
+        border-top: 1px solid white;
+        padding: 15px 10px;
+        display: flex;
+        margin-top: 40px;
+        flex-direction: column;
+    }
+    .hero-list-left {
+        width: 100%;
+        margin: auto;
+    }
+    .hero-list-right {
+        width: 100%;
+        margin: auto;
+    }
+    .heading-2-style {
+        color: #012169 !important;
+        text-align: center;
+        font-family: 'Anton';
+        font-size: 30px;
+        font-weight: 200;
+    }
+    .why-us-main-box-right {
+        width: 100%;
+        padding: 0px 10px;
+    }
+    .why-us-main-box-left {
+        width: 100%;
+        padding-right: 15px;
+    }
+    .why-us-main-box-left img {
+        max-width: 100%;
+        height: auto;
+        margin: 0px;
+        margin-left: 0px;
+        width: 100% !important;
+    }
+    .testimonial-main-box {
+        width: 100%;
+        margin-top: 50px !important;
+        margin-bottom: 0px !important;
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+        padding: 0px 30px;
+    }
+    .order-depend-on-following-essentials-main-box-sub-box-left-describtion {
+        display: flex;
+        align-items: center;
+        font-size: 12px;
+        font-weight: 900;
+        color: #012169;
+        margin-bottom: 14px;
+    }
+    section#best-prices-at-assignment-help-london {
+        padding-bottom: 0px;
+        padding-top: 0px;
+    }
+    .total-price-box {
+        width: 100%;
+        margin: auto;
+        margin-top: 40px;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        gap: 20px 0px;
+    }
+    .total-price-box-right {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 0px !important;
+    }
+    .footer-main-box {
+        width: 100%;
+        display: flex;
+        justify-content: left;
+        GAP: 40PX 0PX;
+        flex-wrap: wrap;
+        padding-left: 20px;
+    }
+    .copy-right-main-box {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: column;
+        gap: 15px;
+    }
+    .copy-right-text {
+        font-weight: 600;
+        text-align: center;
+    }
+    .footer-main-box {
+        width: 100%;
+        display: flex;
+        justify-content: left;
+        GAP: 40PX 0PX;
+        flex-wrap: wrap;
+        padding-left: 10px;
+        padding-right: 10px !important;
+    }
+    .WRITE-MY-ASSIGNMENT-BUT-wHATS-THE-PROCESS-main-box-item {
+        width: 100%;
+        background: #f9f9ff;
+        border-top-left-radius: 50px;
+        border-bottom-right-radius: 50px;
+        padding: 40px;
+        padding-right: 10px !important;
+        padding-left: 18px;
+        margin: 15px;
+        display: flex;
+        align-items: center;
+        gap: 0 22px;
+    }
+    .listen-to-our-satisfied-students-main-box {
+        background: #012169;
+        border-radius: 0px 0px 0px 0px;
+        padding-top: 80px;
+        padding-bottom: 10px;
+        background-image: url("image/sub-bg_timgbz.png");
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-color: rgba(223, 215, 249, .5);
+    }
+    .testimonial-main-box-left-image-box-description {
+        font-size: 17px;
+        margin-top: 27px;
+        color: black !important;
+    }
+    .testimonial-main-box-author-box {
+        width: 100% !important;
+    }
+    .author {
+        font-size: 20px;
+        font-weight: bolder;
+        margin-top: 25px;
+        text-align: center;
+    }
+    .author-designation {
+        text-align: center;
+    }
+    .side-bar.active {
+        left: 0;
+        z-index: 3000;
+    }
+    #home-hero {
+        padding: 0px 0px;
+        padding-top: 38px;
+    }
+    .total-price {
+        width: 100%;
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+    }
+    .get-pricing-quote a button {
+        padding: 15px 30px;
+        background: #c8102e !important;
+        border-radius: 10px;
+        border: none;
+        color: white;
+        font-size: 20px;
+        cursor: pointer;
+        margin-top: 20px;
+        font-weight: 700 !important;
+    }
+    section#footer {
+        padding-bottom: 20px;
+    } 
+    .Place-order-page-main-box-left-box-main-box-content {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .Place-order-page-main-box-left-box-main-box-content-left {
+        width: 100%;
+        padding: 10px;
+    }
+    .Place-order-page-main-box-left-box-main-box-content-right {
+        width: 100%;
+        padding: 10px;
+    }
+    .adjust-content {
+        gap: 20px;
+        display: flex;
+        flex-direction: column;
+    }
+    .Deadline {
+        width: 100%;
+        padding-right: 0px;
+    }
+    .number-of-page {
+        width: 100%;
+        padding-left: 0px;
+    }
+    .I-agree-to-Terms-and-Condition {
+        width: 100%;
+        margin: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .total-price-calculate {
+        width: 100%;
+        margin: auto;
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .I-agree-to-Terms-and-Condition-and-total-price-btn-box {
+        width: 100%;
+        margin: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .kagepisuceng__item_post {
+        font-size: 12px;
+        margin-bottom: 27px;
+        color: rgb(0 0 0 / 80%);
+        font-weight: 700;
+    }
+    .trust-us-for-cheap-main-box-left {
+        width: 100%;
+        padding: 0px 10px;
+    }
+    .trust-us-for-cheap-main-box-right {
+        width: 100%;
+        padding: 0px 10px;
+    }
+    .trust-us-for-cheap-main-box-left-heading-3-style {
+        font-size: 30px;
+        margin-top: -2px;
+        margin-top: 20px;
+    }
+}
+@media (max-width:375px) {
+    .best-prices-at-assignment-help-london-btn-box {
+        margin-top: 30px !important;
+        margin: 0px !important;
+        flex-wrap: wrap;
+        gap: 10px 20px;
+    }
+    button.best-prices-at-assignment-help-london-btn-box-chat-with-us {
+        padding: 20px 29px;
+        font-size: 18px;
+        font-weight: bolder;
+        background: #012169;
+        border: none;
+        margin: 0px;
+        border-radius: 10px;
+        color: white;
+        display: flex;
+        align-items: center;
+        transition: all .4s ease-in-out;
+    
+    }
+    .best-prices-at-assignment-help-london-btn-box-order-now {
+        padding: 20px 29px;
+        font-size: 18px;
+        font-weight: bolder;
+        background: #c8102e;
+        border: none;
+        margin: 0px;
+        border-radius: 10px;
+        color: white;
+        display: flex;
+        align-items: center;
+        transition: all .4s ease-in-out;
+    }
+    .service-page-hero-main-box-left-heading-style {
+        text-align: start;
+        font-size: 30px;
+        font-weight: 800;
+        font-family: "anton";
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+        color: white;
+    }
+    .never-before-main-box-left-heading-2-style {
+        font-size: 25px;
+        font-weight: 900;
+    }
+}
+@media (max-width:320px) {
+    .hero-counter-box {
+        width: 143px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        padding: 0px 5px;
+    }
+}
